@@ -2,6 +2,7 @@
 
 * [EuropeTechJobs](https://www.eurotechjobs.com/job_search/category/python_developer)
 * [Wellfounded](https://wellfound.com/role/l/software-engineer/europe)
+* [remote](https://www.remoterocketship.com/country/europe/jobs/software-engineer?page=1&sort=DateAdded&jobTitle=Software+Engineer&locations=Europe)
 
 I've recently joined Amazon Dublin from India and got opportunities to interview with Meta London, Zalando Berlin & some other companies.
 I extensively researched about companies hiring internationally which support visa & relocation for Tech roles. So sharing list of companies:
