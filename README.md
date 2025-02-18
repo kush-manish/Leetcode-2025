@@ -1,5 +1,7 @@
 # Leetcode-2025
 
+* [EuropeTechJobs](https://www.eurotechjobs.com/job_search/category/python_developer)
+
 I've recently joined Amazon Dublin from India and got opportunities to interview with Meta London, Zalando Berlin & some other companies.
 I extensively researched about companies hiring internationally which support visa & relocation for Tech roles. So sharing list of companies:
 
